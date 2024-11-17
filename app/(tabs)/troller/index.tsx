@@ -7,14 +7,14 @@ export default function HomeScreen() {
     <View style={styles.container}>
       {/* New FIX & GO Header Section */}
       <View style={styles.topHeader}>
-        <Image source={require('@/assets/images/fix & go.png')} style={styles.logo} />
+        <Image source={require('@/assets/fix & go.png')} style={styles.logo} />
         <Text style={styles.headerTitle}>FIX & GO</Text>
       </View>
 
       {/* Profile Header Section (Fixed) */}
       <View style={styles.profileContainer}>
         <View style={styles.logoContainer}>
-          <Image source={require('@/assets/images/4451024.png')} style={styles.profileImage} />
+          <Image source={require('@/assets/4451024.png')} style={styles.profileImage} />
         </View>
         <View style={styles.userInfo}>
           <Text style={styles.userName}>Sahanya Welivitiya</Text>
@@ -40,7 +40,7 @@ export default function HomeScreen() {
       {/* Scrollable Car Listings */}
       <ScrollView style={styles.scrollContainer} contentContainerStyle={{ paddingBottom: 80 }}>
         <View style={styles.card}>
-          <Image source={require('@/assets/images/wheel-lift-tow-truck.webp')} style={styles.carImage} />
+          <Image source={require('@/assets/wheel-lift-tow-truck.webp')} style={styles.carImage} />
           <View style={styles.carDetails}>
             <Text style={styles.carTitle}>Wheel Lift Tow Truck</Text>
             <Text style={styles.carDescription}>Best For : Luxury cars,SUVs,damaged vehicles</Text>
@@ -61,7 +61,7 @@ export default function HomeScreen() {
           </View>
         </View>
         <View style={styles.card}>
-  <Image source={require('@/assets/images/flatbed_towtruck.png')} style={styles.carImage} />
+  <Image source={require('@/assets/flatbed_towtruck.png')} style={styles.carImage} />
   <View style={styles.carDetails}>
     <Text style={styles.carTitle}>Flatbed Tow Truck</Text>
     <Text style={styles.carDescription}>Best for:Long distance towing,small vehicles</Text>
@@ -87,16 +87,16 @@ export default function HomeScreen() {
       {/* Bottom Navigation */}
       <View style={styles.bottomNav}>
         <TouchableOpacity>
-          <Image source={require('@/assets/images/fix & go.png')} style={styles.navIcon} />
+          <Image source={require('@/assets/fix & go.png')} style={styles.navIcon} />
         </TouchableOpacity>
         <TouchableOpacity>
-          <Image source={require('@/assets/images/fix & go.png')} style={styles.navIcon} />
+          <Image source={require('@/assets/fix & go.png')} style={styles.navIcon} />
         </TouchableOpacity>
         <TouchableOpacity>
-          <Image source={require('@/assets/images/fix & go.png')} style={styles.navIcon} />
+          <Image source={require('@/assets/fix & go.png')} style={styles.navIcon} />
         </TouchableOpacity>
         <TouchableOpacity>
-          <Image source={require('@/assets/images/fix & go.png')} style={styles.navIcon} />
+          <Image source={require('@/assets/fix & go.png')} style={styles.navIcon} />
         </TouchableOpacity>
       </View>
     </View>

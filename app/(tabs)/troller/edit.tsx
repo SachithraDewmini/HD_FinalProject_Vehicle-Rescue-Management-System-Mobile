@@ -20,7 +20,7 @@ export default function HomeScreen() {
     <View style={styles.container}>
       {/* Header Section */}
       <View style={styles.topHeader}>
-        <Image source={require('@/assets/images/fix & go.png')} style={styles.logo} />
+        <Image source={require('@/assets/fix & go.png')} style={styles.logo} />
         <Text style={styles.headerTitle}>FIX & GO</Text>
       </View>
 
@@ -77,16 +77,16 @@ export default function HomeScreen() {
       {/* Bottom Navigation */}
       <View style={styles.bottomNav}>
         <TouchableOpacity>
-          <Image source={require('@/assets/images/fix & go.png')} style={styles.navIcon} />
+          <Image source={require('@/assets/fix & go.png')} style={styles.navIcon} />
         </TouchableOpacity>
         <TouchableOpacity>
-          <Image source={require('@/assets/images/fix & go.png')} style={styles.navIcon} />
+          <Image source={require('@/assets/fix & go.png')} style={styles.navIcon} />
         </TouchableOpacity>
         <TouchableOpacity>
-          <Image source={require('@/assets/images/fix & go.png')} style={styles.navIcon} />
+          <Image source={require('@/assets/fix & go.png')} style={styles.navIcon} />
         </TouchableOpacity>
         <TouchableOpacity>
-          <Image source={require('@/assets/images/fix & go.png')} style={styles.navIcon} />
+          <Image source={require('@/assets/fix & go.png')} style={styles.navIcon} />
         </TouchableOpacity>
       </View>
     </View>
