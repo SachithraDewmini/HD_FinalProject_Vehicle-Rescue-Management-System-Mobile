@@ -4,7 +4,7 @@
         An all-in-one platform for real-time roadside assistance. Get help anytime, anywhere. 🌐📱
 📖 Introduction
 
-🎯 Purpose
+🎯 Purpose 
 
 The Vehicle Rescue Management System provides a reliable solution for drivers facing vehicle breakdowns. By offering real-time information on nearby services and rental options, it ensures continuous mobility even during repairs. 🚙💼
 🎩 Scope
@@ -66,3 +66,6 @@ Mobile App: Open in Android Studio or run via react-native run-android.
 📌 Conclusion
 
 The Vehicle Rescue Management System aims to enhance the roadside assistance experience through a user-centered, feature-rich platform. By integrating real-time data on nearby services and continuous journey options, this application is a reliable and innovative solution for vehicle emergencies. 🌟
+![Alt text](https://github.com/SachithraDewmini/HD_FinalProject_Vehicle-Rescue-Management-System-Mobile/blob/main/assets/images/Screenshot%202024-12-01%20160338.png) 
+![Alt text](https://github.com/SachithraDewmini/HD_FinalProject_Vehicle-Rescue-Management-System-Mobile/blob/main/assets/images/Screenshot%202024-12-01%20160656.png)
+ ![Alt text](https://github.com/SachithraDewmini/HD_FinalProject_Vehicle-Rescue-Management-System-Mobile/blob/main/assets/images/Screenshot%202024-12-01%20160729.png) 
