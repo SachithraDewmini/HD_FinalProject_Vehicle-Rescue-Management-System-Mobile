@@ -42,6 +42,7 @@ export default function HomeScreen() {
 
       <View style={styles.cardContainer}>
         <TouchableOpacity style={styles.card}>
+          
           <Image source={require('@/assets/mecanic.webp')} style={styles.icon} />
           <Text style={styles.cardText}>Mechanic</Text>
         </TouchableOpacity>
